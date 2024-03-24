@@ -59,7 +59,7 @@ Use `ctrl+c` to terminate.
 ### Install
 Make the program directory:
 ```
-sudo install3.sh
+sudo ./install3.sh
 ```
 
 Reboot the system for the changes to take effect.
