@@ -46,7 +46,7 @@ sudo apt -y install \
 Clone from GitHub:
 ```
 cd /tmp
-git clone https://github.com/crouchingtigerhiddenadam/nano-hat-oled-armbian
+git clone https://github.com/Steve-J83/nano-hat-oled-armbian
 ```
 
 Run the code (optional):
