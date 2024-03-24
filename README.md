@@ -19,7 +19,7 @@ Enable i2c0:
 ```
 sudo apt update
 sudo apt -y install armbian-config
-sudo armbian config
+sudo armbian-config
 ```
 Select `System`, `Hardware`, mark `i2c0` and `Save`. Reboot the system for the changes to take effect.
 
@@ -36,7 +36,7 @@ sudo apt -y install \
   python3-setuptools \
   python3-smbus \
   python3-wheel \
-  ttf-dejavu \
+  fonts-dejavu-core \
   zlib1g-dev \
   python3-libgpiod \
   python3-pillow
