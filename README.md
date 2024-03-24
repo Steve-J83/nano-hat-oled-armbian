@@ -52,7 +52,7 @@ git clone https://github.com/Steve-J83/nano-hat-oled-armbian
 Run the code (optional):
 ```
 cd /tmp/nano-hat-oled-armbian
-python3 oled-start3.py
+sudo python3 oled-start3.py
 ```
 Use `ctrl+c` to terminate.
 
